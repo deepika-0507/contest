@@ -1,2 +1,3 @@
 # contest
-this is a cotest app
+this is a contest app
+created for taleted gamers
